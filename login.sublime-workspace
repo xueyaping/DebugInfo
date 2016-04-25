@@ -1,0 +1,492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"val",
+				"value"
+			],
+			[
+				"v",
+				"val"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"u",
+				"userName"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"se",
+				"select	Tag"
+			],
+			[
+				"ge",
+				"getAuth"
+			],
+			[
+				"au",
+				"authData"
+			],
+			[
+				"c",
+				"c_ref"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"d",
+				"divider"
+			],
+			[
+				"r",
+				"ref"
+			],
+			[
+				"dev",
+				"deviceInfo"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wh",
+				"white_content"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"ca",
+				"container"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"i",
+				"if	if"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"es",
+				"else"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"n",
+				"null"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"s",
+				"submit"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"sin",
+				"signFrom"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"k",
+				"keystr"
+			],
+			[
+				"nco",
+				"ncomStr"
+			],
+			[
+				"g",
+				"getElementById〔function〕"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"hi",
+				"hide〔function〕"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"get",
+				"getfocus"
+			],
+			[
+				"chi",
+				"children〔function〕"
+			],
+			[
+				"tag",
+				"tagName"
+			],
+			[
+				"cl",
+				"click〔function〕"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"设备",
+				"设备名称："
+			],
+			[
+				"fil",
+				"Files"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "ip",
+		"selected_items":
+		[
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ip",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"",
+				"Build: New Build System"
+			]
+		],
+		"width": 725.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"{import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Downloads/windows用批处理/windows用批处理/hosts",
+		"/F/Object/devinfo/css/style.css",
+		"/F/Object/devinfo/js/table.js",
+		"/F/Object/devinfo/index.html",
+		"/F/Object/wilddog/demo.js",
+		"/F/Object/devinfo/css/bootstrap.min.css",
+		"/F/Object/devinfo/table.html",
+		"/F/web design/gsolar/js/jquery.js",
+		"/C/Users/Administrator/Desktop/devinfo/table.html",
+		"/C/Users/Administrator/Desktop/devinfo/table.js",
+		"/C/Users/Administrator/Desktop/table.js",
+		"/C/Users/Administrator/Desktop/devinfo/form.js",
+		"/F/Object/wilddog/table.js",
+		"/F/Object/wilddog/table.html",
+		"/F/Object/wilddog/style.css",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/F/Object/wilddog/foucs.html",
+		"/F/Object/wilddog/form.html",
+		"/C/Users/Administrator/Desktop/js_loction _read_write/RW_Blob.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/firfox.sublime-build",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/chrom.sublime-build",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/ie.sublime-build",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/F/Object/wilddog/index.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rea",
+			"email",
+			"reg",
+			"authData",
+			"设备信息",
+			"show",
+			"push",
+			"ref.getAuth()",
+			"push",
+			"key",
+			"show",
+			"hr",
+			"showUserInfo",
+			"deviceInfo",
+			"userInfo",
+			"user",
+			"show",
+			"form-horizontal",
+			"uid",
+			"user",
+			"isupdate",
+			"\">\n",
+			"1",
+			"$(\"#dd-bh\").text();",
+			"$(\"#dd-sb\").text();",
+			"editBtn",
+			"font",
+			"            ",
+			"val",
+			"\"",
+			"dd",
+			"\\",
+			"}\n",
+			"\\",
+			"{ \"cmd\": [\"C:/Program Files/Google/Chrome/Application/chrome.exe\",\"$file\"],\n\"selector\": [\"text.html\"] }}\n{\n",
+			"\\",
+			"{ \"cmd\": [\"C:/Program Files/Google/Chrome/Application/chrome.exe\",\"$file\"],\"selector\": \"$File\" }",
+			"\\",
+			"!"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 154.0
+	},
+	"pinned_build_system": "",
+	"project": "login.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
